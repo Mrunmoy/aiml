@@ -1,2 +1,2 @@
 # aiml
-Machine Learning and Artificial Intelligence Stuffs
+Machine Learning and Artificial Intelligence self-study and test code
